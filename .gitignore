@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+*.postman_environment.json
+postman/*environment*.json
+*.log
